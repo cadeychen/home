@@ -2,6 +2,7 @@
 {
 	text-align:center;
 }
+/*This is for the book cover being centred*/
 .inner
 {
 font-family:"Century Gothic";Fantasy;sans-serif;
@@ -12,6 +13,7 @@ color:white;
 line-height:1.0;
 text-align:center;		
 }
+/*this is for the heading one within the head*/
 .outer
 {
 font-family:"Century Gothic";Fantasy;sans-serif;
@@ -22,6 +24,7 @@ color:white;
 line-height:1.5;
 text-align:center;	
 }
+/*This is for the heading ones within the body*/
 ol
 {
 	font-family:"Century Gothic";"Bradley Hand ITC";sans-serif;
@@ -32,6 +35,7 @@ color:white;
 line-height:2.0;
 text-align:justify;
 }
+/*This is for the list*/
 .lalala
 {
 	font-family:"Century Gothic";Fantasy;sans-serif;
@@ -42,6 +46,7 @@ color:white;
 line height:2.0;
 text-align:center;	
 }
+/*This is for heading 2 and 3 within the head of index.html, as well as for the h2 within the head of bonus production.html*/
 .wrapper 
 {
         text-align: center; 
@@ -52,12 +57,14 @@ text-align:center;
         margin: 0;
         padding: 0;
 }
+/*This is for the list being centred*/
 body
 {
 background-color:#373a42;
 width:50%;
 margin:auto;
 }
+/*This is for setting the background colour, thw width of the paragraphs and the margin*/
 p
 {
 font-family:"Century Gothic";"Bradley Hand ITC";sans-serif;
@@ -68,6 +75,7 @@ color:white;
 line-height:2.0;
 text-align:justify;
 }
+/*This is for the list*/
 .lebo
 {
 	font-family:"Century Gothic";"Bradley Hand ITC";sans-serif;
@@ -78,6 +86,7 @@ color:white;
 line-height:2.0;
 text-align: center; 
   }
+  /*this is for the last h1 and h2 in index.html*/
   .something
   {
 	  font-family:"Century Gothic";"Bradley Hand ITC";sans-serif;
@@ -88,6 +97,7 @@ color:white;
 line-height:2.0;
 text-align: justify;   
   }
+  /*This is for the reference part of bonus production.html*/
   .bonus
   {
 	  text-align:center;
@@ -98,5 +108,6 @@ font style:normal;
 color:white;
 line-height:1.0; 
   }
+  /*This is for the last h1 and h2 of bonus production.html */
  
   
