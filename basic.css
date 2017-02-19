@@ -1,0 +1,102 @@
+.idk
+{
+	text-align:center;
+}
+.inner
+{
+font-family:"Century Gothic";Fantasy;sans-serif;
+font-size:4.5em;
+font-weight:2.0;
+font-style:Italic;
+color:white;
+line-height:1.0;
+text-align:center;		
+}
+.outer
+{
+font-family:"Century Gothic";Fantasy;sans-serif;
+font-size:3em;
+font-weight:1.8;
+font-style:normal;
+color:white;
+line-height:1.5;
+text-align:center;	
+}
+ol
+{
+	font-family:"Century Gothic";"Bradley Hand ITC";sans-serif;
+font-size:1.5em;
+font-weight:2.0;
+font-style:normal;
+color:white;
+line-height:2.0;
+text-align:justify;
+}
+.lalala
+{
+	font-family:"Century Gothic";Fantasy;sans-serif;
+font-size:1.8em;
+font-weight:1.8;
+font-style:normal;
+color:white;
+line height:2.0;
+text-align:center;	
+}
+.wrapper 
+{
+        text-align: center; 
+    }
+.wrapper ul 
+{
+        display: inline-block;
+        margin: 0;
+        padding: 0;
+}
+body
+{
+background-color:#373a42;
+width:50%;
+margin:auto;
+}
+p
+{
+font-family:"Century Gothic";"Bradley Hand ITC";sans-serif;
+font-size:1.5em;
+font-weight:1.8;
+font-style:normal;
+color:white;
+line-height:2.0;
+text-align:justify;
+}
+.lebo
+{
+	font-family:"Century Gothic";"Bradley Hand ITC";sans-serif;
+font-size:1.5em;
+font-weight:1.8;
+font style:normal;
+color:white;
+line-height:2.0;
+text-align: center; 
+  }
+  .something
+  {
+	  font-family:"Century Gothic";"Bradley Hand ITC";sans-serif;
+font-size:0.8em;
+font-weight:normal;
+font style:normal;
+color:white;
+line-height:2.0;
+text-align: justify;   
+  }
+  .bonus
+  {
+	  text-align:center;
+	  font-family:"Century Gothic";"Bradley Hand ITC";sans-serif;
+font-size:1.0em;
+font-weight:normal;
+font style:normal;
+color:white;
+line-height:1.0; 
+  }
+ 
+  
