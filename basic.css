@@ -13,7 +13,7 @@ color:white;
 line-height:1.0;
 text-align:center;		
 }
-/*this is for the heading one within the head*/
+/*this is for the h1 withing the heading*/
 .outer
 {
 font-family:"Century Gothic";Fantasy;sans-serif;
@@ -24,7 +24,7 @@ color:white;
 line-height:1.5;
 text-align:center;	
 }
-/*This is for the heading ones within the body*/
+/*This is for the titles of the paragraphs*/
 ol
 {
 	font-family:"Century Gothic";"Bradley Hand ITC";sans-serif;
@@ -46,7 +46,7 @@ color:white;
 line height:2.0;
 text-align:center;	
 }
-/*This is for heading 2 and 3 within the head of index.html, as well as for the h2 within the head of bonus production.html*/
+/*This is for heading 2 and 3 within the heading of index.html, as well as for the h2 within the heading of bonus production.html*/
 .wrapper 
 {
         text-align: center; 
