@@ -90,23 +90,23 @@ text-align: center;
   .something
   {
 	  font-family:"Century Gothic";"Bradley Hand ITC";sans-serif;
-font-size:0.8em;
-font-weight:normal;
-font style:normal;
+font-size:1.5em;
+font-weight:1.8;
+font-style:normal;
 color:white;
 line-height:2.0;
-text-align: justify;   
+text-align:justify;
   }
   /*This is for the reference part of bonus production.html*/
   .bonus
   {
-	  text-align:center;
 	  font-family:"Century Gothic";"Bradley Hand ITC";sans-serif;
-font-size:1.0em;
-font-weight:normal;
-font style:normal;
+font-size:1.5em;
+font-weight:1.8;
+font-style:normal;
 color:white;
-line-height:1.0; 
+line-height:2.0;
+text-align:justify;
   }
   /*This is for the last h1 and h2 of bonus production.html */
  
