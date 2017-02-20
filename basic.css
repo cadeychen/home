@@ -3,32 +3,30 @@
 	text-align:center;
 }
 /*This is for the book cover being centred*/
-.inner
+h1
 {
 font-family:"Century Gothic";Fantasy;sans-serif;
-font-size:4.5em;
+font-size:54pt;
 font-weight:2.0;
 font-style:Italic;
 color:white;
-line-height:1.0;
 text-align:center;		
 }
 /*this is for the h1 withing the heading*/
-.outer
+h2
 {
 font-family:"Century Gothic";Fantasy;sans-serif;
-font-size:3em;
+font-size:35pt;
 font-weight:1.8;
 font-style:normal;
 color:white;
-line-height:1.5;
 text-align:center;	
 }
 /*This is for the titles of the paragraphs*/
 ul
 {
 	font-family:"Century Gothic";"Bradley Hand ITC";sans-serif;
-font-size:1.5em;
+font-size:19pt;
 font-weight:2.0;
 font-style:normal;
 color:white;
@@ -36,14 +34,13 @@ line-height:2.0;
 text-align:center;
 }
 /*This is for the list*/
-.lalala
+h3
 {
 	font-family:"Century Gothic";Fantasy;sans-serif;
-font-size:1.8em;
+font-size: 26pt;
 font-weight:1.8;
 font-style:normal;
 color:white;
-line height:2.0;
 text-align:center;	
 }
 /*This is for heading 2 and 3 within the heading of index.html, as well as for the h2 and the last h2s within the heading of bonus production.html*/
@@ -68,36 +65,24 @@ margin:auto;
 p
 {
 font-family:"Century Gothic";"Bradley Hand ITC";sans-serif;
-font-size:1.5em;
+font-size: 21pt;
 font-weight:1.8;
 font-style:normal;
 color:white;
-line-height:2.0;
+line-height:40pt;
 text-align:justify;
 }
 /*This is for the list*/
 .lebo
 {
 	font-family:"Century Gothic";"Bradley Hand ITC";sans-serif;
-font-size:1.5em;
+font-size:21pt;
 font-weight:1.8;
 font style:normal;
 color:white;
-line-height:2.0;
 text-align: center; 
   }
   /*this is for the last h1 and h2 in index.html*/
-  .something
-  {
-	  font-family:"Century Gothic";"Bradley Hand ITC";sans-serif;
-font-size:1.5em;
-font-weight:1.8;
-font-style:normal;
-color:white;
-line-height:2.0;
-text-align:justify;
-  }
-  /*This is for the reference part of bonus production.html*/
   .bonus
   {
 	  font-family:"Century Gothic";"Bradley Hand ITC";sans-serif;
@@ -105,7 +90,6 @@ font-size:1.5em;
 font-weight:1.8;
 font-style:normal;
 color:white;
-line-height:2.0;
 text-align:center;
   }
   /*This is for the last h1 and h2 of bonus production.html */
