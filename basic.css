@@ -12,7 +12,7 @@ font-style:Italic;
 color:white;
 text-align:center;		
 }
-/*this is for the h1 withing the heading*/
+/*this is for the h1 withing the heading, I want it to really pop up.*/
 h2
 {
 font-family:"Century Gothic";Fantasy;sans-serif;
@@ -43,7 +43,7 @@ font-style:normal;
 color:white;
 text-align:center;	
 }
-/*This is for heading 2 and 3 within the heading of index.html, as well as for the h2 and the last h2s within the heading of bonus production.html*/
+/*This is for h3s.*/
 .wrapper 
 {
         text-align: center; 
@@ -113,6 +113,6 @@ color:white;
 line-height:40pt;
 text-align:justify;  
   }
-  /*This is for making the name of the book Itlic.*/
+  /*This is for making the name of the book or mivie being set into Italic.*/
  
   
