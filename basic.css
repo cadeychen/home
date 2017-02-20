@@ -83,6 +83,16 @@ color:white;
 text-align: center; 
   }
   /*this is for the last h1 and h2 in index.html*/
+  .lalala
+  {
+	font-family:"Century Gothic";"Bradley Hand ITC";sans-serif;
+font-size: 21pt;
+font-weight:1.8;
+font-style:normal;
+color:white;
+line-height:40pt;
+text-align:center;  
+  }
   .bonus
   {
 	  font-family:"Century Gothic";"Bradley Hand ITC";sans-serif;
