@@ -54,8 +54,12 @@ text-align:center;
 body
 {
 background-color:#373a42;
-width:50%;
+width:70%;
    margin:auto;
+   padding-top:30px;
+   padding-right:50px;
+   padding-bottom:30px;
+   padding-left:50px;
 }
 /*This is for setting the background colour, thw width of the paragraphs and the margin*/
 p
