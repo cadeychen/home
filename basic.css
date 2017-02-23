@@ -13,9 +13,9 @@ color:white;
 text-align:center;	
 width:100%;	
 padding-top:20px;
-   padding-right:105px;
+   padding-right:90px;
    padding-bottom:10px;
-   padding-left:105px;
+   padding-left:90px;
 }
 /*this is for the h1 withing the heading, I want it to really pop up.*/
 h2
@@ -28,9 +28,9 @@ color:white;
 text-align:center;	
 width:100%;
 padding-top:10px;
-   padding-right:105px;
+   padding-right:90px;
    padding-bottom:10px;
-   padding-left:105px;
+   padding-left:90px;
 }
 /*This is for the titles of the paragraphs*/
 h3
@@ -43,9 +43,9 @@ color:white;
 text-align:center;	
 width:100%;
 padding-top:10px;
-   padding-right:105px;
+   padding-right:90px;
    padding-bottom:10px;
-   padding-left:105px;
+   padding-left:90px;
 }
 /*This is for h3s.*/
 .dajurou 
@@ -57,9 +57,9 @@ padding-top:10px;
         display: inline-block;
         margin: 0;
        padding-top:20px;
-   padding-right:105px;
+   padding-right:90px;
    padding-bottom:20px;
-   padding-left:105px;
+   padding-left:90px;
 		font-family:"Century Gothic","Bradley Hand ITC",Arial, Verdana, serif, monospace;
 font-size:20pt;
 font-weight:400;
@@ -75,10 +75,6 @@ body
 {
 background-color:#373a42;
    margin:auto;
-   padding-top:20px;
-   padding-right:105px;
-   padding-bottom:20px;
-   padding-left:105px;
 }
 /*This is for setting the background colour, thw width of the paragraphs and the margin*/
 p
@@ -90,8 +86,8 @@ font-style:normal;
 color:white;
 line-height:40pt;
 text-align:justify;
-padding-right:105px;
- padding-left:105px;
+padding-right:90px;
+ padding-left:90px;
  width:100%;
 }
 /*This is for the list*/
@@ -103,8 +99,8 @@ font-weight:normal;
 font-style:normal;
 color:white;
 text-align: center; 
-   padding-right:105px;
-   padding-left:105px;
+   padding-right:90px;
+   padding-left:90px;
    width:100%;
   }
   /*this is for the last h1 and h2 in index.html*/
@@ -117,8 +113,8 @@ font-style:normal;
 color:white;
 line-height:40pt;
 text-align:center;  
-   padding-right:105px;
-   padding-left:105px;
+   padding-right:90px;
+   padding-left:90px;
       width:100%;
   }
   .bonus
@@ -130,9 +126,9 @@ font-style:normal;
 color:white;
 text-align:center;
 padding-top:100px;
-   padding-right:105px;
+   padding-right:90px;
    padding-bottom:10px;
-   padding-left:105px;
+   padding-left:90px;
       width:100%;
   }
   /*This is for the last h1 and h2 of bonus production.html */
@@ -146,9 +142,9 @@ color:white;
 line-height:40pt;
 text-align:justify;  
 padding-top:10px;
-   padding-right:105px;
+   padding-right:90px;
    padding-bottom:10px;
-   padding-left:105px;
+   padding-left:90px;
       width:100%;
   }
   /*This is for making the name of the book or mivie being set into Italic.*/
@@ -161,9 +157,9 @@ font-style:normal;
 color:white;
 text-align:center;	 
 padding-top:10px;
-   padding-right:105px;
+   padding-right:90px;
    padding-bottom:10px;
-   padding-left:105px;
+   padding-left:90px;
       width:100%;
  }
  /*This is for the paragraphs following the first heading of each page.*/
