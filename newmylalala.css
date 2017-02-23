@@ -6,7 +6,7 @@ font-weight:bold;
 font-style:Italic;
 color:white;
 text-align:right;	
-padding-top:200px;
+padding-top:300px;
 padding-right:50px;
 padding-bottom:15px;
 padding-left:270px;	
@@ -45,3 +45,8 @@ body
 	background-size: 100%;
 }
 /*I decided to use an image as the background of the body*/
+.linebreak
+{
+white-space:pre ;
+}
+/*This is used for the line break.*/
