@@ -10,7 +10,8 @@ font-size:50pt;
 font-weight:bold;
 font-style:Italic;
 color:white;
-text-align:center;		
+text-align:center;	
+width:100%;	
 }
 /*this is for the h1 withing the heading, I want it to really pop up.*/
 h2
@@ -21,6 +22,11 @@ font-weight:600;
 font-style:normal;
 color:white;
 text-align:center;	
+width:100%;
+padding-top:20px;
+   padding-right:125px;
+   padding-bottom:20px;
+   padding-left:125px;
 }
 /*This is for the titles of the paragraphs*/
 h3
@@ -31,6 +37,11 @@ font-weight:600;
 font-style:normal;
 color:white;
 text-align:center;	
+width:100%;
+padding-top:20px;
+   padding-right:125px;
+   padding-bottom:20px;
+   padding-left:125px;
 }
 /*This is for h3s.*/
 .dajurou 
@@ -41,7 +52,10 @@ text-align:center;
 {
         display: inline-block;
         margin: 0;
-        padding: 0;
+       padding-top:20px;
+   padding-right:125px;
+   padding-bottom:20px;
+   padding-left:125px;
 		font-family:"Century Gothic","Bradley Hand ITC",Arial, Verdana, serif, monospace;
 font-size:20pt;
 font-weight:400;
@@ -55,7 +69,6 @@ text-decoration: underline;
 body
 {
 background-color:#373a42;
-width:70%;
    margin:auto;
    padding-top:20px;
    padding-right:125px;
@@ -74,7 +87,7 @@ line-height:40pt;
 text-align:justify;
 padding-right:125px;
  padding-left:125px;
- width:75%;
+ width:100%;
 }
 /*This is for the list*/
 .lebo
@@ -85,6 +98,11 @@ font-weight:normal;
 font-style:normal;
 color:white;
 text-align: center; 
+padding-top:20px;
+   padding-right:125px;
+   padding-bottom:20px;
+   padding-left:125px;
+   width:100%;
   }
   /*this is for the last h1 and h2 in index.html*/
   .lalala
@@ -96,6 +114,11 @@ font-style:normal;
 color:white;
 line-height:40pt;
 text-align:center;  
+padding-top:20px;
+   padding-right:125px;
+   padding-bottom:20px;
+   padding-left:125px;
+      width:100%;
   }
   .bonus
   {
@@ -105,6 +128,11 @@ font-weight:400;
 font-style:normal;
 color:white;
 text-align:center;
+padding-top:20px;
+   padding-right:125px;
+   padding-bottom:20px;
+   padding-left:125px;
+      width:100%;
   }
   /*This is for the last h1 and h2 of bonus production.html */
   .somethinglike
@@ -116,6 +144,11 @@ font-style:Italic;
 color:white;
 line-height:40pt;
 text-align:justify;  
+padding-top:20px;
+   padding-right:125px;
+   padding-bottom:20px;
+   padding-left:125px;
+      width:100%;
   }
   /*This is for making the name of the book or mivie being set into Italic.*/
  .hahaha
@@ -126,6 +159,11 @@ font-weight:600;
 font-style:normal;
 color:white;
 text-align:center;	 
+padding-top:20px;
+   padding-right:125px;
+   padding-bottom:20px;
+   padding-left:125px;
+      width:100%;
  }
  /*This is for the paragraphs following the first heading of each page.*/
  #wulala
