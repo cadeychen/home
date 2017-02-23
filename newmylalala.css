@@ -45,3 +45,8 @@ body
 	background-size: 100%;
 }
 /*I decided to use an image as the background of the body*/
+.left
+{
+	font-style:normal;
+	font-weight:500;
+}
