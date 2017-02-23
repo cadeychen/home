@@ -1,7 +1,7 @@
 h1
  {
 	 font-family:"Century Gothic","Bradley Hand ITC",Arial, Verdana, serif, monospace;
-	 font-size:45pt;
+	 font-size:40pt;
 font-weight:bold;
 font-style:Italic;
 color:white;
@@ -18,7 +18,7 @@ h2
 	font-family:"Century Gothic","Bradley Hand ITC",Arial, Verdana, serif, monospace;
 font-weight:500;
 font-style:normal;
-font-size:35pt;
+font-size:30pt;
 color:white;
 text-align:right; 
 text-decoration: none;
@@ -45,8 +45,3 @@ body
 	background-size: 100%;
 }
 /*I decided to use an image as the background of the body*/
-.linebreak
-{
-white-space:pre ;
-}
-/*This is used for the line break.*/
