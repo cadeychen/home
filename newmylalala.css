@@ -1,4 +1,4 @@
- .thenewclassiguess
+h1
  {
 	 font-family:"Century Gothic","Bradley Hand ITC",Arial, Verdana, serif, monospace;
 	 font-size:45pt;
@@ -12,11 +12,12 @@ padding-bottom:15px;
 padding-left:270px;	 
  }
  /*This is for the big title*/
- .thenewerclassiguess
+h2
  {
 	font-family:"Century Gothic","Bradley Hand ITC",Arial, Verdana, serif, monospace;
 font-weight:500;
 font-style:normal;
+font-size:35pt;
 color:white;
 text-align:right; 
 text-decoration: none;
