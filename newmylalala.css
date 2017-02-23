@@ -1,0 +1,46 @@
+ .thenewclassiguess
+ {
+	 font-family:"Century Gothic";"Bradley Hand ITC";Arial;Verdana;serif;monospace;
+	 font-size:45pt;
+font-weight:bold;
+font-style:Italic;
+color:white;
+text-align:right;	
+padding-top:180px;
+padding-right:50px;
+padding-bottom:15px;
+padding-left:270px;	 
+ }
+ /*This is for the big title*/
+ .thenewerclassiguess
+ {
+	font-family:"Century Gothic";"Bradley Hand ITC";Arial;Verdana;serif;monospace;
+font-size: 35pt;
+font-weight:500;
+font-style:normal;
+color:white;
+text-align:right; 
+text-decoration: none;
+padding-top:15px;
+padding-right:50px;
+padding-bottom:180px;
+padding-left:300px;	 
+ }
+ /*click on the options to access the pages.*/
+ a:link    
+ {color:white; background-color:transparent; text-decoration:none}
+a:visited 
+{color:white; background-color:transparent; text-decoration:none}
+a:hover   
+{color:white; background-color:transparent; text-decoration:underline}
+a:active  
+{color:white; background-color:transparent; text-decoration:underline}
+body
+{
+	background-image: url(paperback.jpg);
+	background-repeat: no-repeat;
+    	background-position: center;
+    	background-attachment: fixed;
+	background-size: 100%;
+}
+/*I decided to use an image as the background of the body*/

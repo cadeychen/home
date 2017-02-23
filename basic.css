@@ -49,6 +49,7 @@ font-style:normal;
 color:white;
 line-height:2.0;
 text-align:center;
+text-decoration: underline;
 }
 /*This is for the list itself and it being centred*/
 body
@@ -66,7 +67,7 @@ p
 {
 font-family:"Century Gothic";"Bradley Hand ITC";Arial;Verdana;serif;monospace;
 font-size: 20pt;
-font-weight:1.8;
+font-weight:400;
 font-style:normal;
 color:white;
 line-height:40pt;
@@ -136,4 +137,16 @@ color:white;
 text-align:center;	 
  }
  /*This is for the paragraph that points to the movie page, used an id selector since this is the only element that involves this style.*/
-  
+ a:link    
+ {color:white; background-color:transparent; text-decoration:none}
+a:visited 
+{color:white; background-color:transparent; text-decoration:none}
+a:hover   
+{color:white; background-color:transparent; text-decoration:underline}
+a:active  
+{color:white; background-color:transparent; text-decoration:underline}
+ .anewthing
+ {
+	 text-decoration: underline;
+	 font-style:normal;
+ }	 
