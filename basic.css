@@ -27,8 +27,8 @@ h3
 {
 	font-family:"Century Gothic","Bradley Hand ITC",Arial, Verdana, serif, monospace;
 font-size: 24pt;
-font-weight:1.6;
-font-style:560;
+font-weight:550;
+font-style:normal;
 color:white;
 text-align:center;	
 }
@@ -43,8 +43,8 @@ text-align:center;
         margin: 0;
         padding: 0;
 		font-family:"Century Gothic","Bradley Hand ITC",Arial, Verdana, serif, monospace;
-font-size:19pt;
-font-weight:2.0;
+font-size:20pt;
+font-weight:400;
 font-style:normal;
 color:white;
 line-height:2.0;
@@ -81,7 +81,7 @@ padding-right:125px;
 	font-family:"Century Gothic","Bradley Hand ITC",Arial, Verdana, serif, monospace;
 font-size:20pt;
 font-weight:normal;
-font style:normal;
+font-style:normal;
 color:white;
 text-align: center; 
   }
@@ -108,8 +108,8 @@ text-align:center;
   /*This is for the last h1 and h2 of bonus production.html */
   .somethinglike
   {
-	font-family:"Century Gothic";"Bradley Hand ITC";Arial;Verdana;serif;monospace;
-font-size: 20pt;
+	font-family:"Century Gothic","Bradley Hand ITC",Arial,Verdana,serif,monospace;
+font-size:20pt;
 font-weight:normal;
 font-style:Italic;
 color:white;
@@ -131,7 +131,7 @@ text-align:center;
  {
 	font-family:"Century Gothic","Bradley Hand ITC",Arial, Verdana, serif, monospace;
 font-size: 24pt;
-font-weight:479;
+font-weight:470;
 font-style:normal;
 color:white;
 text-align:center;	 
