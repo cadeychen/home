@@ -12,6 +12,10 @@ font-style:Italic;
 color:white;
 text-align:center;	
 width:100%;	
+padding-top:20px;
+   padding-right:125px;
+   padding-bottom:20px;
+   padding-left:125px;
 }
 /*this is for the h1 withing the heading, I want it to really pop up.*/
 h2
@@ -64,6 +68,7 @@ color:white;
 line-height:2.0;
 text-align:center;
 text-decoration: underline;
+width:100%
 }
 /*This is for the list itself and it being centred*/
 body
