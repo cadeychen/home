@@ -25,7 +25,6 @@ padding-top:15px;
 padding-right:50px;
 padding-bottom:180px;
 padding-left:200px;	 
-text-decoration: underline;
  }
  /*click on the options to access the pages.*/
  a:link    
@@ -50,3 +49,8 @@ body
 	font-style:normal;
 	font-weight:500;
 }
+.underline
+{
+	text-decoration: underline;
+}
+/*This is for the options being underlined so the viewer knows where to click.*/
