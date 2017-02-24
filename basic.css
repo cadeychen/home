@@ -145,7 +145,7 @@ font-style:normal;
 color:white;
 text-align:center;	 
  }
- /*This is for the paragraph that points to the movie page, used an id selector since this is the only element that involves this style.*/
+ /*This is for the paragraph that points to the movie page, I used an id selector since this is the only element that involves this style.*/
  a:link    
  {color:white; background-color:transparent; text-decoration:none}
 a:visited 
@@ -154,8 +154,10 @@ a:hover
 {color:white; background-color:transparent; text-decoration:underline}
 a:active  
 {color:white; background-color:transparent; text-decoration:underline}
+/*This is for the external and internal links to be also in white since it looks better.*/
  .anewthing
  {
 	 text-decoration: underline;
 	 font-style:normal;
  }	 
+ /*For the links being underlined.*/
