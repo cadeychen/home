@@ -1,6 +1,8 @@
 .idk
 {
-	text-align:center;
+	display: block;
+    margin-left: auto;
+    margin-right: auto 
 }
 /*This is for the book cover being centred*/
 h1
