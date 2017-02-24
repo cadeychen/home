@@ -66,6 +66,8 @@ font-style:normal;
 color:white;
 line-height:40pt;
 text-align:justify;
+padding-right:50px;
+padding-left:50px
 }
 P.blocktext {
     margin-left: auto;
