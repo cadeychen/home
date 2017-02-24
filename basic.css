@@ -1,10 +1,10 @@
-.idk
+IMG.displayed 
 {
-	display: block;
+    display: block;
     margin-left: auto;
     margin-right: auto 
-}
-/*This is for the book cover being centred*/
+	}
+/*This is for the photos being centred*/
 h1
 {
 font-family:"Century Gothic","Bradley Hand ITC",Arial, Verdana, serif, monospace;
