@@ -8,7 +8,7 @@ color:white;
 text-align:right;	
 padding-top:300px;
 padding-right:50px;
-padding-bottom:15px;
+padding-bottom:5px;
 padding-left:200px;	
  }
  /*This is for the big title*/
@@ -21,7 +21,7 @@ font-size:30pt;
 color:white;
 text-align:right; 
 text-decoration: none;
-padding-top:15px;
+padding-top:10px;
 padding-right:50px;
 padding-bottom:180px;
 padding-left:200px;	 
@@ -52,5 +52,6 @@ body
 .underline
 {
 	text-decoration: underline;
+	
 }
 /*This is for the options being underlined so the viewer knows where to click.*/
