@@ -130,7 +130,10 @@ font-size:36pt;
 font-weight:600;
 font-style:normal;
 color:white;
-text-align:center;	 
+text-align:center;
+margin-left: auto;
+    margin-right: auto;
+    width:27em;	 
  }
  /*This is for the paragraphs following the first heading of each page.*/
  #wulala
