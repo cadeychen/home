@@ -8,20 +8,17 @@ IMG.displayed
 h1
 {
 font-family:"Century Gothic","Bradley Hand ITC",Arial, Verdana, serif, monospace;
-font-size:50pt;
+font-size:36pt;
 font-weight:bold;
 font-style:Italic;
 color:white;
 text-align:center;
-margin-left: auto;
-    margin-right: auto;
-    width:27em;	
 }
 /*this is for the h1 withing the heading, I want it to really pop up.*/
 h2
 {
 font-family:"Century Gothic","Bradley Hand ITC",Arial, Verdana, serif, monospace;
-font-size:36pt;
+font-size:28pt;
 font-weight:600;
 font-style:normal;
 color:white;
@@ -34,7 +31,7 @@ margin-left: auto;
 h3
 {
 	font-family:"Century Gothic","Bradley Hand ITC",Arial, Verdana, serif, monospace;
-font-size: 24pt;
+font-size: 20pt;
 font-weight:600;
 font-style:normal;
 color:white;
@@ -53,7 +50,7 @@ margin-left: auto;
         display: inline-block;
         margin: 0;
 		font-family:"Century Gothic","Bradley Hand ITC",Arial, Verdana, serif, monospace;
-font-size:20pt;
+font-size:18pt;
 font-weight:400;
 font-style:normal;
 color:white;
@@ -71,7 +68,7 @@ background-color:#373a42;
 p
 {
 font-family:"Century Gothic","Bradley Hand ITC",Arial, Verdana, serif, monospace;
-font-size: 20pt;
+font-size: 18pt;
 font-weight:400;
 font-style:normal;
 color:white;
@@ -85,7 +82,7 @@ text-align:justify;
 .lebo
 {
 	font-family:"Century Gothic","Bradley Hand ITC",Arial, Verdana, serif, monospace;
-font-size:20pt;
+font-size:18pt;
 font-weight:normal;
 font-style:normal;
 color:white;
@@ -95,7 +92,7 @@ text-align: center;
   .lalala
   {
 	font-family:"Century Gothic","Bradley Hand ITC",Arial, Verdana, serif, monospace;
-font-size: 20pt;
+font-size: 18pt;
 font-weight:400;
 font-style:normal;
 color:white;
@@ -105,7 +102,7 @@ text-align:center;
   .bonus
   {
 	  font-family:"Century Gothic","Bradley Hand ITC",Arial, Verdana, serif, monospace;
-font-size:20.5pt;
+font-size:18pt;
 font-weight:400;
 font-style:normal;
 color:white;
@@ -115,7 +112,7 @@ text-align:center;
   .somethinglike
   {
 	font-family:"Century Gothic","Bradley Hand ITC",Arial,Verdana,serif,monospace;
-font-size:20pt;
+font-size:18pt;
 font-weight:normal;
 font-style:Italic;
 color:white;
@@ -126,7 +123,7 @@ text-align:justify;
  .hahaha
  {
 	font-family:"Century Gothic","Bradley Hand ITC",Arial, Verdana, serif, monospace;
-font-size:36pt;
+font-size:30pt;
 font-weight:600;
 font-style:normal;
 color:white;
@@ -139,7 +136,7 @@ margin-left: auto;
  #wulala
  {
 	font-family:"Century Gothic","Bradley Hand ITC",Arial, Verdana, serif, monospace;
-font-size: 24pt;
+font-size: 18pt;
 font-weight:500;
 font-style:normal;
 color:white;
